@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540004877085.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AE66D104",
+    "lastKnownWriteTime" : 1540004961,
+    "last_content_update" : 1540004961002,
+    "path" : "D:/OneDrive/Public/Data Science/Coursera/coursera-final-submission/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
